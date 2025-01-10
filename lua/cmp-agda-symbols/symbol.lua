@@ -49,6 +49,8 @@ return {
     { word = "\\%", label = "\\% ％", insertText = "％", filterText = "\\%" },
     { word = "\\&", label = "\\& ⅋", insertText = "⅋", filterText = "\\&" },
     { word = "\\'", label = "\\' ′", insertText = "′", filterText = "\\'" },
+    { word = "\\''", label = "\\'' ″", insertText = "″", filterText = "\\''" },
+    { word = "\\'''", label = "\\''' ‴", insertText = "‴", filterText = "\\'''" },
     { word = "\\'A", label = "\\'A Á", insertText = "Á", filterText = "\\'A" },
     { word = "\\'C", label = "\\'C Ć", insertText = "Ć", filterText = "\\'C" },
     { word = "\\'E", label = "\\'E É", insertText = "É", filterText = "\\'E" },
