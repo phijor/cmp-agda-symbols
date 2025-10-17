@@ -1650,6 +1650,7 @@ return {
     { word = "\\lr=", label = "\\lr= ⇔", insertText = "⇔", filterText = "\\lr=" },
     { word = "\\lr=n", label = "\\lr=n ⇎", insertText = "⇎", filterText = "\\lr=n" },
     { word = "\\lrcorner", label = "\\lrcorner ⌟", insertText = "⌟", filterText = "\\lrcorner" },
+    { word = "\\lrmultimap", label = "\\lrmultimap ⧟", insertText = "⧟", filterText = "\\lrmultimap" },
     { word = "\\lr~", label = "\\lr~ ↭", insertText = "↭", filterText = "\\lr~" },
     { word = "\\ltimes", label = "\\ltimes ⋉", insertText = "⋉", filterText = "\\ltimes" },
     { word = "\\lub", label = "\\lub ⊔", insertText = "⊔", filterText = "\\lub" },
